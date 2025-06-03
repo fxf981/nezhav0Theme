@@ -343,7 +343,7 @@ window.onload = function () {
 		// 替换页脚，设置主题版权超链接
 		const footer = document.querySelector("div.is-size-7");
 		if (footer) {
-			footer.innerHTML = `Copyright © 2025 <a href="https://github.com/fxf9818/nezhav0Theme" target="_blank">Theme</a>`;
+			footer.innerHTML = `Copyright © 2025 <a href="https://github.com/fxf981/nezhav0Theme" target="_blank">Theme</a>`;
 			footer.style.visibility = "visible";
 		}
 
