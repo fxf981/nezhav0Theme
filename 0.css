@@ -47,7 +47,7 @@ body {
 	background-position: top !important;
 	background-repeat: no-repeat !important;
 	background-size: cover !important;
-	background-image: url(https://gitee.com/darki/img/raw/master/1631081013043.webp) !important;
+	background-image: url(https://c.wallhere.com/photos/7c/5b/women_model_ass_wall_boobs_Stepan_Kvardakov-331582.jpg!d) !important;
 	font-family: Arial,Helvetica,sans-serif !important;
 }
 
@@ -335,7 +335,7 @@ window.onload = function () {
 			logoTextLink.href = "https://t.me/nobiaz";
 			logoTextLink.target = "_blank";
 			logoTextLink.className = "top-logo";
-			logoTextLink.innerText = "Telegram Group";
+			logoTextLink.innerText = "TG Group";
 			header.innerHTML = "";
 			header.appendChild(logoTextLink);
 		}
@@ -348,7 +348,7 @@ window.onload = function () {
 		}
 
 		// 替换默认 Favicon
-		const faviconUrl = "//img14.360buyimg.com/ddimg/jfs/t1/165473/22/45/3452/614256aEa95a0194/8c51cebbd04b95b2.png";
+		const faviconUrl = "https://nezha.io/apple-touch-icon.png";
 		let link = document.querySelector("link[rel*='icon']") || document.createElement('link');
 		link.type = 'image/png';
 		link.rel = 'shortcut icon';
